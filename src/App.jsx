@@ -5,9 +5,6 @@ import './App.css';
 
 
 import AboutUs from './AboutUs';
-import CartItem from './CartItem';
-import CartSlice from './CartSlice';
-
 
 function App() {
   
